@@ -1,6 +1,6 @@
 import { Account, Client, ID } from "appwrite";
 import conf from "../conf/conf";
-import sdk from "node-appwrite";
+// import sdk from "node-appwrite";
 
 export class authServices {
   client = new Client();
